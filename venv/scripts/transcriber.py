@@ -1,7 +1,8 @@
 import assemblyai as aai
+from keys import transcriberKey
 
 # set the API key
-aai.settings.api_key = "c8abb89b59794434bf3a389c80797f6e"
+aai.settings.api_key = transcriberKey
 
 import assemblyai as aai
 
